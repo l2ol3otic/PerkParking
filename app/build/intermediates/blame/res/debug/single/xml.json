@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\programing\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_tracker.xml",
+        "source": "D:\\programing\\PerkParking\\app\\src\\main\\res\\xml\\app_tracker.xml"
+    },
+    {
+        "merged": "D:\\programing\\PerkParking\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_notification.xml",
+        "source": "D:\\programing\\PerkParking\\app\\src\\main\\res\\xml\\setting_notification.xml"
+    }
+]
